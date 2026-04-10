@@ -1,0 +1,83 @@
+{
+  "app": {
+    "name": "AqlAI",
+    "tagline": "Your Intelligent Conversation Partner"
+  },
+  "nav": {
+    "home": "Home",
+    "chat": "Chat",
+    "profile": "Profile",
+    "login": "Sign In",
+    "signup": "Sign Up",
+    "logout": "Sign Out"
+  },
+  "landing": {
+    "hero_title": "AqlAI Smarter Conversations with Multiple AI Models",
+    "hero_subtitle": "Switch seamlessly between top AI models in one unified interface. Ask anything in English or Arabic and receive intelligent, tailored responses. You can also download your conversations anytime.",
+    "cta_start": "Start Chatting",
+    "cta_learn": "Learn More", 
+    "feature_PDF": "You can export your conversations as PDF file ",
+    "feature_PDF_desc": " saving them in your device to read, share, or keep for later.",
+    "feature_bilingual": "Bilingual Support",
+    "feature_bilingual_desc": "Full English and Arabic support with proper RTL layout and localized responses.",
+    "feature_history": "Smart History",
+    "feature_history_desc": "Your conversations are saved and AI generates a summary of your interests over time.",
+    "about_title": "Built for Thoughtful Conversations",
+    "about_desc": "AqlAI combines multiple AI models into a single, beautiful interface. Whether you're researching, brainstorming, or just curious — switch models on the fly and get diverse perspectives."
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "login_subtitle": "Sign in to continue your conversations",
+    "signup_title": "Create account",
+    "signup_subtitle": "Join AqlAI and start exploring AI",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit_login": "Sign In",
+    "submit_signup": "Create Account",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?",
+    "error_invalid": "Invalid credentials. Please try again.",
+    "error_mismatch": "Passwords do not match.",
+    "error_required": "This field is required.",
+    "auth.error_email_format": "Please enter a valid email address"
+  },
+  "chat": {
+    "new_chat": "New Chat",
+    "send": "Send",
+    "placeholder": "Type your message...",
+    "select_model": "Select Model",
+    "no_conversations": "No conversations yet",
+    "start_prompt": "Start a conversation by typing a message below.",
+    "thinking": "Thinking...",
+    "error_send": "Failed to send message. Please try again.",
+    "history": "Chat History",
+    "delete_chat": "Delete",
+    "model_groq": "Groq (LLaMA 3.3)",
+    "model_hf_qwen": "HF Qwen 2.5",
+    "model_hf_gemma": "HF Gemma 2",
+    "search": "Search conversations...",
+    "export_pdf": "Export as PDF"
+  },
+  "profile": {
+    "title": "Your Profile",
+    "summary_title": "AI-Generated Summary",
+    "summary_empty": "Chat more to generate a summary of your interests and patterns.",
+    "language_pref": "Language Preference",
+    "total_chats": "Total Conversations",
+    "total_messages": "Total Messages",
+    "member_since": "Member Since",
+    "refresh_summary": "Refresh",
+    "summary_updated": "Summary updated!",
+    "summary_not_enough": "Need at least 5 messages to generate a summary."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close"
+  }
+}
